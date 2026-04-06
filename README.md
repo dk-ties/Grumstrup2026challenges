@@ -7,7 +7,7 @@ The will be small mounthly task to complete and push to this repo.
 We will use what ever langues we find appropriate for the task.
 
 
-April channelse:
+#April channelse:
   Create a script that will calculate you exspected outcome for your stock doing a time periode of. 1 year, 10 year, 25 year and 50 year.
   Use your current stock or find some on the stock marked.
   Start simply, and if the time is there, exspand to one or more ideas:
